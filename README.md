@@ -88,18 +88,14 @@ Once that’s solid, deep dive into individual systems.
 
 This section tracks what I learned each day, along with links to detailed notes in the `DayWise-Learning/` folder.
 
-| Day   | Date           | Topic                     | Notes                                      |
-|-------|----------------|---------------------------|--------------------------------------------|
-| Day 1 | July 23, 2025  | Scalability Basics        | [Day_1.md](./Day_1.md)    |
-| Day 2 | July 24, 2025  | Load Balancer             | [Day_2.md](./Day_2.md)    |
-| Day 3 | July 25, 2025  | Database Design           | [Day_3.md](./Day_3.md)    |
-| Day 4 | July 26, 2025  | Caching                   | [Day_4.md](./Day_4.md)    |
-| Day 5 | July 27, 2025  | Data Partitioning         | [Day_5.md](./Day_5.md)    |
-| Day 6 | July 28, 2025  | Key-Value Store           | [Day_6.md](./Day_6.md)    |
-| Day 7 | July 29, 2025  | URL Shortener             | [Day_7.md](./Day_7.md)    |
-| Day 8 | July 30, 2025  | Web Crawler               | [Day_8.md](./Day_8.md)    |
-| Day 9 | July 31, 2025  | Notification System       | [Day_9.md](./Day_9.md)    |
-| Day 10| Aug 01, 2025   | News Feed System          | [Day_10.md](./Day_10.md)  |
+| Day   | Topic                     | Notes                                      |
+|-------|---------------------------|--------------------------------------------|
+| Day 1 | Scalability Basics        | [Day 1](./Day_1.md)    |
+| Day 2 | Load Balancer             | [Day 2](./Day_2.md)    |
+| Day 3 | Database Design           | [Day 3](./Day_3.md)    |
+| Day 4 | Caching                   | [Day 4](./Day_4.md)    |
+| Day 5 | Data Partitioning         | [Day 5](./Day_5.md)    |
+| Day 6 | Key-Value Store           | [Day 6](./Day_6.md)    |
 
 > 📁 Click the link to access the files
 
