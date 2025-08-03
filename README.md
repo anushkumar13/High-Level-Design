@@ -9,7 +9,7 @@ The goal is simple: understand how real-world scalable systems are built — not
 ## 📅 Timeline
 
 **Start Date:** July 23, 2025  
-**Target Completion:** August 31, 2025
+**Target Completion:** July 31, 2025
 
 ---
 
