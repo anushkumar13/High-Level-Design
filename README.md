@@ -101,5 +101,5 @@ To become confident in system design interviews and actually **understand how re
 **Anush Kumar Mall**  
 CSE Student | Aspiring SWE | System Design Learner  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anush-kumar-mall)  
-- 📸 [Instagram](https://www.instagram.com/anushkumar13?igsh=NWc5a3VwbHN3bzZ0)  
+- 📸 [Instagram](https://www.instagram.com/anush.kumar.mall?igsh=NWc5a3VwbHN3bzZ0)  
 - ✉️ Email: kumarmallanush@gmail.com
