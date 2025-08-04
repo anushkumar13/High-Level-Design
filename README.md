@@ -84,23 +84,6 @@ Once that’s solid, deep dive into individual systems.
 
 ---
 
-## 🗓️ Day-wise Learning Progress
-
-This section tracks what I learned each day, along with links to detailed notes in the `DayWise-Learning/` folder.
-
-| Day   | Topic                     | Notes                                      |
-|-------|---------------------------|--------------------------------------------|
-| Day 1 | Scalability Basics        | [Day 1](./Day_1.md)    |
-| Day 2 | Load Balancer             | [Day 2](./Day_2.md)    |
-| Day 3 | Database Design           | [Day 3](./Day_3.md)    |
-| Day 4 | Caching                   | [Day 4](./Day_4.md)    |
-| Day 5 | Data Partitioning         | [Day 5](./Day_5.md)    |
-| Day 6 | Key-Value Store           | [Day 6](./Day_6.md)    |
-
-> 📁 Click the link to access the files
-
----
-
 ##  Note
 
 All notes are written by me in my own words. This is not a copy-paste of the book, but my personal understanding. Diagrams are self-made unless credited.
